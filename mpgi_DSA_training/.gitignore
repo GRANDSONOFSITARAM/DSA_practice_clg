@@ -1,0 +1,12 @@
+# Compiled Java class files
+*.class
+
+# Compiled C/C++ executable files
+*.exe
+*.o
+*.obj
+
+# IDE settings
+.vscode/
+.idea/
+*.iml
